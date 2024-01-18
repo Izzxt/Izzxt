@@ -11,7 +11,7 @@
       I am a full-stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia
     </p>
   <ul>
-    <li>🧑‍💻 I’m a developer on [OVS Hosting](https://www.ovshosting.com)</li>
+    <li>🧑‍💻 I’m a developer on <a href="https://www.ovshosting.com">OVS Hosting</a></li>
     <li>🏢 Currently coding a discord bot and create project on free time, Send me a discord message to discuss</li>
     <li>🌱 I’m currently learning Go Programming Language</li>
     <li>❓ Got question? hit me up on discord</li>
