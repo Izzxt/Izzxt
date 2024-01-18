@@ -1,8 +1,4 @@
-## Hello there, I'm Izzat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-
-<div id="profile-view" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Izzat&style=flat-square&color=blue" alt=""/>
-</div>
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Izzat<img align="right" src="https://komarev.com/ghpvc/?username=Izzat&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About me:
 
